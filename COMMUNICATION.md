@@ -14,7 +14,7 @@ We communicate with each release what has been changed in the repository compare
 
 ## Releases
 
-Version 1.0.0 was released 15th of Nov 2021. No planned update or future release known at that time.
+V1.0 was released 17th of Nov 2021. No planned update or future release known at that time.
 
 ## Guiding principles
 
