@@ -34,7 +34,7 @@ We are not accepting pull requests for changed 3D models. The reason is that IKE
 
 IKEA have for this repository adopted the [Contributor Covenant](https://www.contributor-covenant.org/) and project participants are expected to adhere to it. Please read the [Participation Guidelines (Code of Conduct)](CODE_OF_CONDUCT.md) to understand what actions will and will not be tolerated. Read more about our [rules for communication](COMMUNICATION.md) here.
 
-## Creating new 3D models *[this is information is for IKEA maintainers]*
+## Creating new 3D models *[this information is for IKEA maintainers]*
 
 ### For the .glTF/.glB models
 
@@ -48,7 +48,7 @@ IKEA have for this repository adopted the [Contributor Covenant](https://www.con
 1. Create new 3D models using 3ds Max 2021
 2. Make sure you always are using mm as a system unit inside 3ds Max
 3. Export the .obj models using standard 3ds Max
-4. Doublecheck that you exported the model with the correct units
+4. Double-check that you exported the model with the correct units
 5. Remember to add copyright information inside the header of the files
 
 <!--

@@ -11,13 +11,13 @@ assignees: ''
 A clear and concise description of what the error is. Remember to always attach a screenshot where you show the issue by marking it in the image.
 
 **Describe the exact steps which reproduce the problem in as many details as possible.**
-A step by step explanation of the steps you took so we can recreate this in our side
+A step by step explanation of the steps you took so we can recreate this on our side
 
 **Provide specific examples to demonstrate the steps.(if applicable)** 
 Include links to files or GitHub projects, or text snippets, which you use in those examples.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem. Always mark the issue inside the image by drawing an arrow or outline around the issue you are refering to.
+If applicable, add screenshots to help explain your problem. Always mark the issue inside the image by drawing an arrow or outline around the issue you are referring to.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
