@@ -1,6 +1,6 @@
 # General
 
-Go to our [Readme](README.md) page to learn more about the project and the [Maintainers](MAINTAINERS.md) page learn who our repo maintainers currently are.
+Go to our [README](README.md) page to learn more about the project and the [Maintainers](MAINTAINERS.md) page to learn who our repo maintainers currently are.
 
 ## Rules for communication
 
@@ -10,7 +10,7 @@ Go to our [Readme](README.md) page to learn more about the project and the [Main
 
 ## Versioning
 
-We communicate with each release what has been changed in the repository compared to the previous release. Read the section about [version](https://github.com/IKEA/IKEA3DAssemblyDataset/#version) on our readme page for information on our versioning strategy.
+We communicate with each release what has been changed in the repository compared to the previous release. Read the section about [version](https://github.com/IKEA/IKEA3DAssemblyDataset/#version) on our README page for information on our versioning strategy.
 
 ## Releases
 
